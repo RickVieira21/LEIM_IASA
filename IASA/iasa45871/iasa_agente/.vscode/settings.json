@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/reaccoes",
+        "./src/resposta",
+        "./src/lib/pee/melhor_prim/aval",
+        "./src/lib"
+    ]
+}
